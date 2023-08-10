@@ -1,5 +1,5 @@
 import java.net.*; import java.io.*;
-public class VerPaginaHTML {
+public class pagHTML {
 	public static void main(String[] args) {
 		String texto="";
 		BufferedReader teclado = new BufferedReader(new InputStreamReader(System.in));
